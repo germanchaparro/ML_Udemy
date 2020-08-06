@@ -1,0 +1,1 @@
+Quité los datasets de perros y gatos (Dogs and Cats) para que no me quiten tanto espacio en Dropbox. Los puse en el portátil lenovo en la carpeta /home/german/Documents/Udemy_ML_Datasets_CNN
